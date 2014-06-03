@@ -1,0 +1,43 @@
+:: VarnaLab Emoticon Project ::
+:: Artist: Minka Stoyanova ::
+
+::BACKGROUND::
+
+::VarnaLab AiR::
+
+Artist Minka Stoyanova completed a residency at VarnaLab (hacker space) in Varna, Bulgaria in the month of May, 2014.  The residency was intended as the first of a series of artistic "interventions" / "residencies" within the space, to be coordinated by the members of the space.  A description and background of the Artist In Residence project along with documents and frameworks for repeated iterations of similar projects in other spaces can be found here: 
+
+On github: https://github.com/minkaart/AiR
+
+The blog of the project is here: http://varnalabair.blogspot.com/
+
+::Emoticon Project::
+
+During the residency period, it came to my attention (as it often does in such situations) that my language barrier was hampering my ability to effectively relate to the space and the people in the space.  Despite the fact that individuals spoke to me in English, overheard conversation is often as important as direct conversation when getting a sense of a place.  
+
+Furthermore, my time in the space was punctuated by long periods of complete silence, wherein no-one spoke, in any language.  However, I was aware that much of the work going on within the space involved tremendous amounts of digital and inter-personal communication.  Just like a person that remains calm during crisis, the silence of the lab space was actually just a disguise for what was happening just beneath the surface; emails, messenger chats, international server reconfigurations, website re-designs... the transfer of information, while silent, is the backbone of contemporary life - and I was in one node (or epi-center) of that 24-7 information flow. 
+
+In an effort to engage with this reality, I first created the "stickies project."  As installation/intervention, I invited lab members, when leaving or entering the space, to write their emotional state on a sticky note and place it on the wall next to the door.  The result of this project was a color-ful database of the varied emotional (and distinctly human) states of regular lab members.  
+
+The second step in the "stickies project" was to catalogue and organize all the emotional states that were recorded.  In an effort to re-engage with the digital nature of the space and the communication flows into and out of it, and in an effort to respond to my own linguistic pitfalls, I decided to create a set of "emoticons/emojis" that would be representative of the catalogued emotional states.  These illustrations would have to refrain from any use of writing or language, and instead rely solely on expression to relay what was collected; I hope that you find I was successful with the project. 
+
+The 19 resulting emojis are more like Facebook "stickers" than like the bouncing smiley faces of Skype or gChat (another small response to the "stickies" that inspired them).  However, they are designed to be used with any chat or forum software the user desires.  Furthermore, the character designs are based (not directly, but inspired by) the people that I encountered in the lab.  The characters represented are young, hip, inspired, revolutionary, and (of course) emotive.  
+
+These emoji stickers are intended for open use - steal them, use them.  Though I would appreciate it if when used, some reference to the space that inspired them or the residency project was made. ---Thanks! Minka
+
+
+::IN THE REPO::
+
+After much research, and a lot of breaking of my own Skype app, I have decided that due to the wide variety of standards and requirements for various chat softwares, I will not package these images specific to any individual chat/forum program, but instead will make the image files available in a variety of formats to be used as individuals see fit. 
+
+phpBB and Trillian support the (relatively simple) addition of custom image macros and emoji sets while Skype and gChat seem not to do so.  Earlier versions of Skype did support the manual addition of emoticon images (at least in the MacOS version) however, at this time (June 2014), it no longer seems to.  
+
+Adding additional Sticker packs to Facebook seems to be most supported by browser plugin, but it seems that the most recent attempts to create a working version of such a plugin have failed (most likely owed to changes in Facebook's chat interface).
+
+As a result, quick use of these images is probably best enacted by forking the repo and manually placing the images (from your personal computer) into the chat program desired.  
+
+::ADDITIONS??::
+
+Anyone that would like to add to this repo code for the use of these images in various platforms is invited to do so! Please do! 
+
+enjoy!!! 
